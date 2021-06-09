@@ -1,0 +1,12 @@
+@import "~bootstrap/scss/bootstrap";
+
+@import "~@fontsource/open-sans/index.css";
+@import "~@fontsource/open-sans/700.css";
+
+@import "./variables.scss";
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
